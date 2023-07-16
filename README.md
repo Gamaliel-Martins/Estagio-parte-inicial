@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 👨‍🏫
 
-<!--
-**Gamaliel-Martins/Gamaliel-Martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gamaliel Martins 
 
-Here are some ideas to get you started:
+- Guarda Municipal na prefeitura de Arapongas
+- Professor de Matemática
+- Estudante de Computação
+- Espaço criado para organizar e compatilhar projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato
+gamaliel.neto@escola.pr.gov.br
+
+gamalielmartins@hotmail.com
+
+![](https://media.tenor.com/IbUaWTOemrQAAAAC/hypotenuse-a2b2.gif)
