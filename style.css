@@ -1,0 +1,29 @@
+body {
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    background-color: blueviolet;
+}
+
+h1 {
+    font-size: 2em;
+    color: whitesmoke;
+    padding: 0.5em;
+    text-align: center;
+}
+
+section {
+    padding: 0.5em;
+}
+
+section article {
+    border: 2px solid blueviolet;
+    
+}
+
+section article img {
+    width: 100%;
+
+}
